@@ -5,4 +5,4 @@ It is a desktop software for network analysis and visualization. It is a tool us
 
 # 1 => choose cvs files of node & edge then choose type of graph
 
-<img src="./1.png">
+<img src="1.PNG">
