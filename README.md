@@ -6,3 +6,31 @@ It is a desktop software for network analysis and visualization. It is a tool us
 # 1 => choose cvs files of node & edge then choose type of graph
 
 <img src="1.PNG">
+
+# 2 => Show Graph
+
+<img src="2.PNG">
+
+# 3= > community Detection Louvian
+
+<img src="3.PNG">
+
+# 4 => Page Rank
+
+<img src="4.PNG">
+
+# 5 => Modularity NMI Condundance
+
+<img src="5.PNG">
+
+# 6 => Degree Centrality
+
+<img src="6.PNG">
+
+# 7 => Betweness Centrality
+
+<img src="7.PNG">
+
+# 8 => Directed Graph
+
+<img src="8.PNG">
