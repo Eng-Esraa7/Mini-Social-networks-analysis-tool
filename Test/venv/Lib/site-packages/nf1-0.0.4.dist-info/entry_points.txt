@@ -1,0 +1,3 @@
+[console_scripts]
+NF1_evaluate = scripts.NF1_evaluate:execute
+

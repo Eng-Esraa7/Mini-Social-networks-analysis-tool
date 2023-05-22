@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: nf1
+Version: 0.0.4
+Summary: NF1: Normalized F1 score for community evaluation against ground truth
+Home-page: https://github.com/GiulioRossetti/f1-communities
+Author: Giulio Rossetti
+Author-email: giulio.rossetti@gmail.com
+License: BSD-Clause-2
+Keywords: community-discovery evaluation complex-networks
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+License-File: LICENSE
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+Requires-Dist: scipy
+Requires-Dist: pandas
+
+UNKNOWN
+

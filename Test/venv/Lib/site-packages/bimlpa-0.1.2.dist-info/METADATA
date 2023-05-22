@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: bimlpa
+Version: 0.1.2
+Summary: Community detection in bipartite networks using multi-label propagation algorithm
+Home-page: https://github.com/hbkt/BiMLPA
+Author: ['Hibiki Taguchi']
+Author-email: UNKNOWN
+License: BSD-Clause-2
+Keywords: complex-networks community-discovery labeled-graph
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Requires-Dist: scikit-learn
+Requires-Dist: matplotlib
+Requires-Dist: networkx
+
+UNKNOWN
+
+

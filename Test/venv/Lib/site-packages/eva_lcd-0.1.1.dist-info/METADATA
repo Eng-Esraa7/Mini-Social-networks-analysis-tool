@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: eva-lcd
+Version: 0.1.1
+Summary: Eva: Community Discovery for labeled graphs
+Home-page: https://github.com/GiulioRossetti/eva
+Author: ['Giulio Rossetti', 'Salvatore Citraro']
+Author-email: giulio.rossetti@gmail.com
+License: BSD-Clause-2
+Keywords: complex-networks community-discovery labeled-graph
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+License-File: LICENSE
+Requires-Dist: numpy
+Requires-Dist: networkx (>=2.4)
+
+UNKNOWN
+

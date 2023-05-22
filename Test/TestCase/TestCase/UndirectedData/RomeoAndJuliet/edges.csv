@@ -1,0 +1,32 @@
+Source,Target,Relationship
+1,2,Romantic partners
+1,9,Family members
+1,10,Family members
+1,12,Family members
+1,4,Friends
+1,3,Friends
+2,7,Family members
+2,8,Family members
+2,5,Friends
+2,3,Friends
+4,13,Family members
+6,2,Family members
+6,7,Family members
+6,8,Family members
+7,8,Family members
+9,10,Family members
+12,9,Family members
+12,10,Family members
+14,3,Work Colleagues
+1,15,Servant-Master
+16,7,Servant-Master
+16,8,Servant-Master
+17,7,Servant-Master
+17,8,Servant-Master
+18,9,Servant-Master
+18,10,Servant-Master
+20,7,Servant-Master
+20,8,Servant-Master
+20,5,Work Colleagues
+11,7,Friends
+11,8,Friends

@@ -1,0 +1,15 @@
+igraph==0.10.4
+
+[cairo]
+cairocffi>=1.2.0
+
+[matplotlib]
+
+[matplotlib:platform_python_implementation != "PyPy"]
+matplotlib>=3.3.0
+
+[plotly]
+plotly>=5.3.0
+
+[plotting]
+cairocffi>=1.2.0
