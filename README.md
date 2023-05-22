@@ -33,4 +33,4 @@ It is a desktop software for network analysis and visualization. It is a tool us
 
 # 8 => Directed Graph
 
-<img src="8.PNG">
+<img src="9.PNG">
